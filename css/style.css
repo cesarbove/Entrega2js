@@ -1,0 +1,7 @@
+body{
+    box-sizing: border-box;
+    background-color: aliceblue;
+}
+section div h2 p{
+    margin-top: 200px;
+}
